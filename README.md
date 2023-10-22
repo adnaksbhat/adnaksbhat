@@ -1,4 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SKANDA CHANDRASHEKAR============================================================================================================================================Data Analyst / Developer / Designer-----------------------------------* 🌍  I'm based in India* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/skanda-bhat-922395184/)* ✉️  You can contact me at [skanda7bhat@gmail.com](mailto:skanda7bhat@gmail.com)* 🤝  I'm open to collaborating on Data Patterns and Analytics / Web-App Development
+Hello
+I'm SKANDA CHANDRASHEKAR
+Data Analyst / Developer / Designer 
+📍  I'm from Mangalore, India 
+🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/skanda-bhat-922395184/) for my Vitae
+✉️  You can contact me at [skanda7bhat@gmail.com](mailto:skanda7bhat@gmail.com) OR reach out to my socials
+▪️  I'm open to collaborating on Data Patterns and Analytics / Web-App Development
 
 ### Skills
 
